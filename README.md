@@ -107,15 +107,23 @@ Customer segmentation shows heavy imbalance:
 
 ## 📊 Dashboard Preview
 
+### 🚛 Landing page 
+<img src="Image/landing page.png" width="800"/>
 
 ### 🚛 Fleet Overview
 <img src="Image/over view.png" width="800"/>
 
--
-- ⏳ Seasonal Analysis — Demand vs Cost Structure
-- 🚛 Vehicle Performance — Cost/km vs Margin
-- 👥 Customer Analysis — Revenue Segmentation
-- 💸 Cost Breakdown — Fixed vs Variable Costs
+### 🚚 Vehicle Performance
+<img src="Image/vechicle analysis.png" width="800"/>
+
+### 👥 Customer Segmentation
+<img src="Image/customer analysis.png" width="800"/>
+
+### 👥 Driver Performance
+<img src="Image/driver analysis.png" width="800"/>
+
+### 👥 cost Analysis
+<img src="Image/cost analysis.png" width="800"/>
 
 ---
 
