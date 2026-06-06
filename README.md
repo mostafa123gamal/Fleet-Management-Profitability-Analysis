@@ -108,7 +108,7 @@ Customer segmentation shows heavy imbalance:
 ## 📊 Dashboard Preview
 
 ### 🚛 Landing page 
-<img src="Image/landing page.png" width="800"/>
+<img src="Image/landing page2.png" width="800"/>
 
 ### 🚛 Fleet Overview
 <img src="Image/over view.png" width="800"/>
