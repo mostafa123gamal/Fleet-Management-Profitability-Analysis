@@ -109,7 +109,7 @@ Customer segmentation shows heavy imbalance:
 
 
 ### 🚛 Fleet Overview
-<img src="Image/ over view.png" width="800"/>
+<img src="Image/over view.png" width="800"/>
 
 -
 - ⏳ Seasonal Analysis — Demand vs Cost Structure
